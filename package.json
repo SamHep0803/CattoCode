@@ -4,8 +4,12 @@
 	"description": "This catto loves to code, but gets tired sometimes.",
 	"version": "0.0.1",
 	"publisher": "nothumanhepworth",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SamHep0803/CattoCode"
+	},
 	"engines": {
-		"vscode": "^1.50.0"
+		"vscode": "^1.51.0"
 	},
 	"categories": [
 		"Other"
